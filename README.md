@@ -6,14 +6,14 @@
 
 ### 🧰 Tech Stack
 
-<span style="display: inline-block; background-color: #f89820; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Java</span>
-<span style="display: inline-block; background-color: #6db33f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Spring</span>
-<span style="display: inline-block; background-color: #61dafb; color: black; padding: 6px 12px; border-radius: 20px; margin: 4px;">React</span>
-<span style="display: inline-block; background-color: #3178c6; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">TypeScript</span>
-<span style="display: inline-block; background-color: #f80000; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Oracle</span>
-<span style="display: inline-block; background-color: #00758f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">MySQL</span>
-<span style="display: inline-block; background-color: #f1502f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Git</span>
-<span style="display: inline-block; background-color: #000000; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">IntelliJ IDEA</span>
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
