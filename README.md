@@ -6,6 +6,8 @@
 
 ### 🧰 Tech Stack
 
+### 🧰 Tech Stack
+
 <table>
   <tr>
     <td align="center" width="80">
@@ -25,15 +27,19 @@
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" /><br/>
       <sub><b>Oracle</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br/>
       <sub><b>MySQL</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br/>
       <sub><b>Docker</b></sub>
@@ -47,14 +53,13 @@
       <sub><b>IntelliJ</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" /><br/>
-      <sub><b>Gradle</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" /><br/>
+      <sub><b>Android</b></sub>
     </td>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40" /><br/>
       <sub><b>Kibana</b></sub>
     </td>
-    <td width="80"></td> <!-- Kosong biar seimbang -->
   </tr>
 </table>
 
