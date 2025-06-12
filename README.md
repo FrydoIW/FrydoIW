@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m Frydo
 
-### 💻 Java Backend Developer | Spring Framework Enthusiast | Tech Explorer
+### 💻 Java Backend Developer | Spring Framework Enthusiast | Tech Explorer | Mobile Development | Web Development
 
 ---
-
-### 🧰 Tech Stack
 
 ### 🧰 Tech Stack
 
