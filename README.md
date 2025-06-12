@@ -14,12 +14,11 @@
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kibana" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Kibana_Logo.png" />
+<img align="left" alt="Kibana" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_kibana.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="IntelliJ IDEA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <br />
 
----
 
 ### 🌱 Currently Learning
 
