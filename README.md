@@ -4,8 +4,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
 <table>
   <tr>
     <td align="center" width="80">
@@ -47,8 +45,8 @@
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" /><br/>
-      <sub><b>IntelliJ</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" /><br/>
+      <sub><b>Kafka</b></sub>
     </td>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" /><br/>
