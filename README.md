@@ -1,56 +1,68 @@
 ## 👋 Hi, I’m Frydo
 
-### 💻 Java Backend Developer | Spring Framework Enthusiast | Tech Explorer |  Web Development | Mobile Development 
+### 💻 Java Backend Developer | Spring Framework Enthusiast | Tech Explorer
 
 ---
 
-#### 🔧 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
+### 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /><br>Spring</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" /><br>Oracle</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" /><br>IntelliJ</td>
+  </tr>
+</table>
 
 ---
 
-#### 🌱 Currently Learning
-- Building scalable backend APIs using Spring Boot
-- Clean Architecture & Domain-Driven Design
-- React with TypeScript for front-end integration
-- CI/CD and full deployment pipeline
+### 🌱 Currently Learning
+
+- Spring Boot Microservices
+- Domain-Driven Design & Clean Architecture
+- CI/CD pipelines & test automation
+- Frontend integration with React + TypeScript
 
 ---
 
-#### 🚀 Projects I'm Working On
-- 🏦 Fintech apps & backend services using Java Spring
-- 📊 Internal tools for simulation & analytics
+### 🚀 Projects I'm Working On
+
+- 🏦 Fintech apps using Java Spring ecosystem  
+- 📊 Backend services for analytics and internal automation  
 - 🧺 Cross-platform mobile app for laundry service (ongoing)
 
 ---
 
-#### 💬 Ask Me About
-- Java, Spring Boot, microservices, and batch processing
-- Git & GitHub collaboration workflows
-- Database optimization (Oracle & MySQL)
+### 📈 GitHub Activity & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrydoIW&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrydoIW&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrydoIW&theme=radical" height="165"/>
+</p>
 
 ---
 
-#### 📫 How to Reach Me
-- 💌 frydo@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/frydo) *(ubah ke link kamu yang asli)*
+### 💬 Ask Me About
+
+- Java, Spring Boot, Spring Batch, Spring Security  
+- Git workflow for development teams  
+- Oracle & MySQL optimization techniques
 
 ---
 
-#### ⏱️ Weekly Coding Stats
-<!--- Use https://github.com/anuraghazra/github-readme-stats or Wakatime for actual data -->
-[![Frydo's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrydoIW&layout=compact&theme=radical)](https://wakatime.com/@FrydoIW)
+### 📫 How to Reach Me
+
+- 📧 Email: **coderfrydoich99@gmail.com**
 
 ---
 
-> “Make it work. Make it right. Make it fast.” – Kent Beck
+> “Make it work. Make it right. Make it fast.” – *Kent Beck*
