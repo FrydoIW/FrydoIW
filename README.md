@@ -6,7 +6,14 @@
 
 ### 🧰 Tech Stack
 
-<p align="center"> <span style="display: inline-block; background-color: #f89820; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Java</span> <span style="display: inline-block; background-color: #6db33f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Spring</span> <span style="display: inline-block; background-color: #61dafb; color: black; padding: 6px 12px; border-radius: 20px; margin: 4px;">React</span> <span style="display: inline-block; background-color: #3178c6; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">TypeScript</span> <span style="display: inline-block; background-color: #f80000; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Oracle</span> <span style="display: inline-block; background-color: #00758f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">MySQL</span> <span style="display: inline-block; background-color: #f1502f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Git</span> <span style="display: inline-block; background-color: #000000; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">IntelliJ IDEA</span> </p>
+<span style="display: inline-block; background-color: #f89820; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Java</span>
+<span style="display: inline-block; background-color: #6db33f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Spring</span>
+<span style="display: inline-block; background-color: #61dafb; color: black; padding: 6px 12px; border-radius: 20px; margin: 4px;">React</span>
+<span style="display: inline-block; background-color: #3178c6; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">TypeScript</span>
+<span style="display: inline-block; background-color: #f80000; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Oracle</span>
+<span style="display: inline-block; background-color: #00758f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">MySQL</span>
+<span style="display: inline-block; background-color: #f1502f; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">Git</span>
+<span style="display: inline-block; background-color: #000000; color: white; padding: 6px 12px; border-radius: 20px; margin: 4px;">IntelliJ IDEA</span>
 
 ---
 
